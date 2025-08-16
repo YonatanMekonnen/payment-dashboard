@@ -47,17 +47,11 @@ A responsive payment operations dashboard for Kifiya's payment processing gatewa
    bash
    npm install
 
-# or
-
-yarn install
 
 3. Run the development server
    bash
    npm run dev
 
-# or
-
-yarn dev
 
 4. Access the application
    text
